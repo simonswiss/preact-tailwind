@@ -1,0 +1,5 @@
+/* Normalize.css + Tailwind base styles */
+@tailwind preflight;
+
+/* Utilities from tailwind.js config */
+@tailwind utilities;
